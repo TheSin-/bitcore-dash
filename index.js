@@ -1,5 +1,5 @@
 'use strict';
 
-var bitcore = require('bitcore-lib-dash');
+var bitcore = require('bitcore-lib-terracoin');
 
 module.exports = bitcore;
