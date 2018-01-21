@@ -82,10 +82,10 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "bitcore-lib-terracoin": "^0.13.20",
-    "bitcore-node-terracoin": "~3.0.4",
-    "insight-api-terracoin": "^0.4.5",
-    "insight-ui-terracoin": "^0.4.3"
+    "bitcore-lib-terracoin": "TheSin-/bitcore-lib-terracoin",
+    "bitcore-node-terracoin": "TheSin-/bitcore-node-terracoin",
+    "insight-api-terracoin": "TheSin-/insight-api-terracoin",
+    "insight-ui-terracoin": "TheSin-/insight-ui-terracoin"
   },
   "license": "MIT",
   "devDependencies": {
