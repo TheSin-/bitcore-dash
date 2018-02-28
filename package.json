@@ -76,16 +76,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheSin-/bitcore-terracoin.git"
+    "url": "https://github.com/terracoin/bitcore-terracoin.git"
   },
   "browser": {
     "request": "browser-request"
   },
   "dependencies": {
-    "bitcore-lib-terracoin": "TheSin-/bitcore-lib-terracoin",
-    "bitcore-node-terracoin": "TheSin-/bitcore-node-terracoin",
-    "insight-api-terracoin": "TheSin-/insight-api-terracoin",
-    "insight-ui-terracoin": "TheSin-/insight-ui-terracoin"
+    "bitcore-lib-terracoin": "^0.15.2",
+    "bitcore-node-terracoin": "^3.0.6",
+    "insight-api-terracoin": "^0.6.0",
+    "insight-ui-terracoin": "^0.4.3"
   },
   "license": "MIT",
   "devDependencies": {

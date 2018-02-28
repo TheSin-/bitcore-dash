@@ -238,7 +238,7 @@ git checkout -b remove/some-file
 
 We expect pull requests to be rebased to the master branch before merging:
 ```sh
-git remote add terracoin git@github.com:TheSin-/bitcore-terracoin.git
+git remote add terracoin git@github.com:terracoin/bitcore-terracoin.git
 git pull --rebase terracoin master
 ```
 
@@ -250,11 +250,11 @@ git push origin your_branch_name
 git push origin feature/some-new-stuff
 git push origin fix/some-bug
 ```
-Finally go to [github.com/TheSin-/bitcore-terracoin](https://github.com/TheSin-/bitcore-terracoin) in your web browser and issue a new pull request.
+Finally go to [github.com/terracoin/bitcore-terracoin](https://github.com/terracoin/bitcore-terracoin) in your web browser and issue a new pull request.
 
 Main contributors will review your code and possibly ask for changes before your code is pulled in to the main repository.  We'll check that all tests pass, review the coding style, and check for general code correctness. If everything is OK, we'll merge your pull request and your code will be part of bitcore.
 
 If you have any questions feel free to post them to
-[github.com/TheSin-/bitcore-terracoin/issues](https://github.com/TheSin-/bitcore-terracoin/issues).
+[github.com/terracoin/bitcore-terracoin/issues](https://github.com/terracoin/bitcore-terracoin/issues).
 
 Thanks for your time and code!
